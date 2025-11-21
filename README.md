@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey, I'm Pedro Augusto Pizoni Freitas</h1>
 <h3 align="center">Computer Engineering Student at University of Passo Fundo (UPF)</h3>
-<img src="https://img.shields.io/badge/YOLO%20AWARD-GOLD-ffd700?style=for-the-badge&logo=star" />
 
 ---
 
