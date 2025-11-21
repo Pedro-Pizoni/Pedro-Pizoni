@@ -62,12 +62,3 @@ A Qt + Arduino incubation controller with:
 
 👉 *Check the repository for full details.*
 
----
-
-## 📜 License
-This project is licensed under the **MIT License**.  
-See the `LICENSE` file for more information.
-
----
-
-💬 *Want help improving your GitHub profile or creating a portfolio? Just ask!*  
