@@ -1,14 +1,19 @@
 <h1 align="center">👋 Hey, I'm Pedro Augusto Pizoni Freitas</h1>
 <h3 align="center">Computer Engineering Student at University of Passo Fundo (UPF)</h3>
+<img src="https://img.shields.io/badge/YOLO%20AWARD-GOLD-ffd700?style=for-the-badge&logo=star" />
 
 ---
 
 ## 📌 About Me
-- 🎓 Computer Engineering student (UPF)  
+- 🎓 Computer Engineering student (UPF)
 - 💻 Passionate about embedded systems, C/C++, and low-level programming  
 - 🔧 Experience with Qt, Arduino/ESP32, data acquisition & automation  
 - 🧠 Learning more about system architecture, algorithms, and hardware-software integration  
 - 📍 Brazil
+
+---
+### 💼 Experience
+<img src="https://img.shields.io/badge/Sicredi-Infrastructure%20Assistant-%2300853C?style=for-the-badge&logo=sicredi&logoColor=white" />
 
 ---
 
