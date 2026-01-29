@@ -11,10 +11,6 @@
 - 📍 Brazil
 
 ---
-### 💼 Experience
-<img src="https://img.shields.io/badge/Sicredi-Infrastructure%20Assistant-%2300853C?style=for-the-badge&logo=sicredi&logoColor=white" />
-
----
 
 ## 🛠️ Tech Stack
 
