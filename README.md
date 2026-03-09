@@ -19,6 +19,7 @@
 - **C**
 - **Assembly x86**
 - **Python**
+- **Concurrent Programming**
 
 ### **Tools & Frameworks**
 - Qt 6 (Widgets / SerialPort)
@@ -26,6 +27,7 @@
 - Git & GitHub
 - Arduino / ESP32
 - Linux (Kali / Ubuntu)
+- OS Internals
 
 ---
 
